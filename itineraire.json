@@ -1,0 +1,185 @@
+{
+  "pays": "Monténégro",
+  "drapeau": "🇲🇪",
+  "symbole": "⚓",
+  "titre": "Escapade relaxante dans la Baie de Kotor",
+  "budget_total": "Environ 1050 €/personne",
+  "duree": "4 jours",
+  "temps_vol": "4h30 (depuis Paris, France)",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et immersion dans la vieille ville",
+      "legende": "Après votre vol, laissez-vous transporter par la beauté de la Baie de Kotor. Installez-vous confortablement et débutez votre exploration par une douce balade dans les ruelles pavées de la vieille ville, classée à l'UNESCO, pour une première immersion relaxante.",
+      "lieu": "Kotor",
+      "activites": [
+        "<strong>🛬 Arrivée à Tivat et transfert à Kotor</strong>: Atterrissage à l'aéroport de Tivat (TIV), suivi d'un court transfert en taxi ou bus jusqu'à votre hébergement à Kotor.",
+        "<strong>🛏️ Installation à l'hôtel et détente</strong>: Prenez le temps de vous installer et de vous rafraîchir avant de commencer votre exploration.",
+        "<strong>🚶‍♀️ Balade douce dans la Vieille Ville de Kotor</strong>: Flânez sans but précis, admirez l'architecture vénitienne, les places charmantes et l'ambiance paisible de la cité fortifiée."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Aéroport de Tivat, Tivat",
+          "categorie": "Aéroport",
+          "coords": { "lat": 42.4042, "lng": 18.7233 }
+        },
+        {
+          "nom_recherche": "Vieille Ville de Kotor, Kotor",
+          "categorie": "Centre historique",
+          "coords": { "lat": 42.4247, "lng": 18.7712 }
+        }
+      ],
+      "illustration": "kotor_jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Transfert aéroport",
+          "texte": "Le trajet de l'aéroport de Tivat à Kotor dure environ 15-20 minutes en taxi. Négociez le prix avant de monter."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "⛪",
+      "titre": "Trésors historiques et vues panoramiques",
+      "legende": "Découvrez les joyaux cachés de Kotor, des églises séculaires aux panoramas époustouflants. Laissez-vous charmer par l'histoire et la beauté naturelle, en profitant d'un rythme tranquille pour apprécier chaque instant.",
+      "lieu": "Kotor",
+      "activites": [
+        "<strong>⛪ Visite de la Cathédrale Saint-Tryphon</strong>: Explorez ce magnifique édifice roman, symbole de Kotor, et admirez ses fresques et son trésor.",
+        "<strong>🏛️ Découverte du Musée Maritime</strong>: Plongez dans l'histoire navale de la région, des marins aux batailles, dans un cadre paisible.",
+        "<strong>🌅 Coucher de soleil depuis les remparts inférieurs</strong>: Profitez d'une vue imprenable sur la baie et la vieille ville sans monter jusqu'à la forteresse, idéal pour une fin de journée relaxante."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Cathédrale Saint-Tryphon, Kotor",
+          "categorie": "Cathédrale",
+          "coords": { "lat": 42.4242, "lng": 18.7711 }
+        },
+        {
+          "nom_recherche": "Musée Maritime du Monténégro, Kotor",
+          "categorie": "Musée",
+          "coords": { "lat": 42.4251, "lng": 18.7708 }
+        },
+        {
+          "nom_recherche": "Remparts de Kotor, Kotor",
+          "categorie": "Site historique",
+          "coords": { "lat": 42.4253, "lng": 18.7725 }
+        }
+      ],
+      "illustration": "kotor_jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🚶‍♀️",
+          "titre": "Conseil de balade",
+          "texte": "Les remparts de Kotor offrent des vues magnifiques. Pour une option relaxante, montez seulement les premières volées d'escaliers pour des panoramas superbes sans l'effort de la montée complète vers la forteresse."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "⛵",
+      "titre": "Charme de Perast et îles légendaires",
+      "legende": "Évadez-vous pour une journée de sérénité le long de la baie, en découvrant le village baroque de Perast et ses îles emblématiques. Une croisière douce vous mènera à des lieux chargés d'histoire et de légendes, parfaits pour une relaxation totale.",
+      "lieu": "Perast",
+      "activites": [
+        "<strong>🚌 Trajet panoramique vers Perast</strong>: Prenez un bus local le long de la baie pour admirer les paysages jusqu'au charmant village de Perast.",
+        "<strong>🚶‍♂️ Flânerie dans Perast</strong>: Explorez ce village baroque, ses palais et ses églises, en profitant de son atmosphère calme et élégante.",
+        "<strong>🚤 Excursion en bateau vers Notre-Dame-du-Rocher</strong>: Embarquez pour une courte traversée vers l'île artificielle de Gospa od Škrpjela, visitez son église et son musée, un moment de pure poésie."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Perast, Monténégro",
+          "categorie": "Village",
+          "coords": { "lat": 42.4867, "lng": 18.6967 }
+        },
+        {
+          "nom_recherche": "Notre-Dame-du-Rocher, Perast",
+          "categorie": "Île et église",
+          "coords": { "lat": 42.4925, "lng": 18.6925 }
+        }
+      ],
+      "illustration": "kotor_jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🚌",
+          "titre": "Transport local",
+          "texte": "Des bus réguliers relient Kotor à Perast. Le trajet est court et offre de magnifiques vues sur la baie. Les départs se font près de la porte principale de la vieille ville."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "👋",
+      "titre": "Derniers instants et départ",
+      "legende": "Profitez d'une dernière matinée paisible à Kotor pour quelques achats souvenirs ou un café en terrasse. Imprégnez-vous une dernière fois de l'ambiance unique de la baie avant de prendre le chemin du retour, la tête pleine de souvenirs.",
+      "lieu": "Kotor",
+      "activites": [
+        "<strong>☕ Petit-déjeuner et café en terrasse</strong>: Savourez un dernier petit-déjeuner monténégrin en observant l'animation matinale de la vieille ville.",
+        "<strong>🛍️ Achats de souvenirs locaux</strong>: Trouvez quelques trésors artisanaux ou produits locaux pour prolonger le voyage une fois rentré.",
+        "<strong>✈️ Transfert à l'aéroport de Tivat et vol retour</strong>: Départ de Kotor pour l'aéroport, marquant la fin de cette escapade relaxante."
+      ],
+      "illustration": "kotor_jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Idées souvenirs",
+          "texte": "Pensez à rapporter de l'huile d'olive locale, du miel, des herbes aromatiques ou des produits artisanaux en bois ou en pierre."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 412 €/pers (A/R Paris-Tivat)", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 50 €/pers (transferts aéroport, bus local, bateau Perast)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "Environ 250 €/pers (base 25-30€/repas, 3 repas/jour)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 270 €/pers (base 90€/nuit pour 3 nuits en hôtel 3*)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 50 €/pers (entrées musées, excursion bateau)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Mai, Juin, Septembre, Octobre", "symbole": "☀️" },
+    { "titre": "Printemps et automne pour des températures douces et moins de foule.", "symbole": "🌸" }
+  ],
+  "infos_pratiques": [
+    { "titre": "La monnaie est l'Euro (€). Les cartes de crédit sont acceptées dans la plupart des établissements, mais prévoyez du liquide pour les petits commerces ou marchés.", "symbole": "💳" },
+    { "titre": "Le Monténégro est un pays sûr. Les habitants sont accueillants. Apprendre quelques mots de monténégrin (bonjour, merci) est toujours apprécié.", "symbole": "🗣️" },
+    { "titre": "Le climat méditerranéen de la côte offre des étés chauds et secs, et des hivers doux et humides. Préférez le printemps ou l'automne pour un voyage relaxant.", "symbole": "🌡️" },
+    { "titre": "L'eau du robinet est généralement potable dans les grandes villes, mais l'eau en bouteille est recommandée pour les estomacs sensibles.", "symbole": "💧" }
+  ],
+  "infos_decallees": [
+    {
+      "symbole": "💡",
+      "titre": "Le saviez-vous ?",
+      "texte": "Kotor est surnommée la \"ville des chats\". Vous en verrez partout, choyés par les habitants et même avec leur propre musée et boutique de souvenirs. Une véritable institution locale !"
+    },
+    {
+      "symbole": "🙃",
+      "titre": "Insolite",
+      "texte": "L'île de Notre-Dame-du-Rocher (Gospa od Škrpjela) est entièrement artificielle ! Elle a été créée au fil des siècles par les marins qui, après chaque voyage réussi, jetaient une pierre dans la baie, formant ainsi l'île actuelle."
+    }
+  ],
+  "specialites_culinaires": [
+    {
+      "symbole": "🍴",
+      "titre": "Njeguški pršut",
+      "description": "Un jambon fumé et séché à l'air, originaire du village de Njeguši. Sa saveur unique est due au microclimat local. À déguster en entrée avec du fromage et des olives."
+    },
+    {
+      "symbole": "🍲",
+      "titre": "Kačamak",
+      "description": "Un plat montagnard réconfortant à base de farine de maïs, de pommes de terre et de fromage (souvent du kajmak, une crème épaisse). Parfait pour se réchauffer après une journée d'exploration."
+    },
+    {
+      "symbole": "🐟",
+      "titre": "Riblja Čorba",
+      "description": "Une soupe de poisson riche et savoureuse, souvent préparée avec plusieurs types de poissons de la mer Adriatique ou du lac Skadar, des légumes et des épices. Un délice marin !"
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-TIV/2026-05-11/2026-05-15", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Office du Tourisme du Monténégro", "url": "https://www.montenegro.travel/", "symbole": "📘" },
+    { "legende": "Météo", "titre": "Météo Kotor", "url": "https://www.accuweather.com/fr/me/kotor/297042/weather-forecast/297042", "symbole": "🌤️" },
+    { "legende": "Transports locaux", "titre": "Bus Kotor", "url": "https://busticket4.me/EN/1-Bus-station-Kotor", "symbole": "🚌" }
+  ]
+}
